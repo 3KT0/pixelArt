@@ -1,4 +1,4 @@
-# Retro-Sketch: Pixel Sketch App
+# Original Project from "bscottnz" Retro-Sketch: Pixel Sketch App
 
 Create your own pixel art.
 

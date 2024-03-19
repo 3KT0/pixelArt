@@ -58,7 +58,7 @@ body {
 
 .header {
     margin-top: 50px;
-    color: rgb(62, 166, 255);
+    color: rgb(140 19 255);
     font-size: 100px;
     text-align: center;
     font-family: gameover;
@@ -114,7 +114,7 @@ input[type="color"] {
     height: 36px;
     overflow: hidden;
     border-radius: 2px;
-    border: 1px solid rgb(62, 166, 255);
+    border: 1px solid rgb(140 19 255);
     width: 35%;
     margin-bottom: 10px;
     
@@ -127,7 +127,7 @@ input[type="color"] {
     font-family: roboto;
     font-weight: 500;
     font-size: 14px;
-    color: rgb(62, 166, 255);
+    color: rgb(140 19 255);
     display: flex;
     position: relative;
     
@@ -145,13 +145,13 @@ input[type="color"] {
 
 button {
     display: block;
-    color: rgb(62, 166, 255);
+    color: rgb(22, 0, 43);
     font-weight: 500;
     font-family: roboto;
     background-color: rgba(0,0,0,0);
     font-size: 14px;
     outline: none;
-    border: 1px solid rgb(62, 166, 255);
+    border: 1px solid rgb(140 19 255);
     border-radius: 2px;
     padding: 9px 15px;
     width: 100%;
@@ -178,7 +178,7 @@ button {
     font-family: roboto;
     font-weight: 500;
     font-size: 14px;
-    color: rgb(62, 166, 255);
+    color: rgb(140 19 255);
     text-align: center;
     margin-bottom: 10px;
 }
@@ -192,7 +192,7 @@ button {
 }
 
 .btn-on {
-    background-color: rgb(62, 166, 255);
+    background-color: rgb(140 19 255);
     color: #202020;
 }
 
